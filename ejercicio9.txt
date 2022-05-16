@@ -1,0 +1,10 @@
+1. <header>Contenido</header>
+2. <nav>Contenido</nav>
+3. <section>Contenido</section>
+4. <h1>Contenido</h1>
+5. <p>Contenido</p>
+6. <h2>Contenido</h2>
+7. <a>Contenido</a>
+8. <iframe>Contenido</iframe>
+9. <footer>Contenido</footer>
+10. <img>Contenido
